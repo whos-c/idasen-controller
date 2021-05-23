@@ -50,8 +50,8 @@ PICKLE_FILE = os.path.join(DEFAULT_CONFIG_DIR, 'desk.pickle')
 
 # Height of the desk at it's lowest (in mm)
 # I assume this is the same for all Idasen desks
-BASE_HEIGHT = 620
-MAX_HEIGHT = 1270  # 6500
+BASE_HEIGHT = 754
+MAX_HEIGHT = 1523  # 6500
 
 # Default config
 if not os.path.isfile(DEFAULT_CONFIG_PATH):
